@@ -9,4 +9,4 @@ How to install in Termux
 - cd wefeed
 - php run.php
 
-pw : ngentod
+pw : login
